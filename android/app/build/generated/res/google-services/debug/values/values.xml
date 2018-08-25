@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">189415949643-qr7grmevnh3cf7e3scejiqmkuviml3ol.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://makerfest2018.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">189415949643</string>
+    <string name="google_api_key" translatable="false">AIzaSyAabfeh--VlzrQThvHFf1LLDn7JtWG3r-Y</string>
+    <string name="google_app_id" translatable="false">1:189415949643:android:3e35287ae19682ba</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAabfeh--VlzrQThvHFf1LLDn7JtWG3r-Y</string>
+    <string name="google_storage_bucket" translatable="false">makerfest2018.appspot.com</string>
+    <string name="project_id" translatable="false">makerfest2018</string>
+</resources>

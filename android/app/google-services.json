@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "189415949643",
+    "firebase_url": "https://makerfest2018.firebaseio.com",
+    "project_id": "makerfest2018",
+    "storage_bucket": "makerfest2018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189415949643:android:3e35287ae19682ba",
+        "android_client_info": {
+          "package_name": "com.example.kyle0.makerfest_2018"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189415949643-ehvljmu9el2qfhnkkpvu5sgs18rr04bp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kyle0.makerfest_2018",
+            "certificate_hash": "a5c908daff1eb2a25958d1c8905bb2a5dedd5691"
+          }
+        },
+        {
+          "client_id": "189415949643-qr7grmevnh3cf7e3scejiqmkuviml3ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAabfeh--VlzrQThvHFf1LLDn7JtWG3r-Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189415949643-qr7grmevnh3cf7e3scejiqmkuviml3ol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
